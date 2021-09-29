@@ -10,7 +10,7 @@ otherwise, you won`t be able to continue the process and you`ll get an error.
 ```bash
 pip install opencv_contrib-python
 ```
-##Run
+## Run
 In terminal: python scanner.py inputfile_path outputfile_path
 
 
